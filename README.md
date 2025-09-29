@@ -11,6 +11,26 @@ Built for fast, reliable operator workflows in the terminal.
 - Works with signed URLs from your backend or with a public `AGENT_ID`
 - Multiple languages supported by the agent (see list below)
 
+### Screenshots
+
+CLI Agent:
+![Screenshot 2](assets/cli-agent.png)
+
+Backend Server:
+![Screenshot 1](assets/backend-server.png)
+
+Cursor Agent:
+![Screenshot 3](assets/cursor-agent.png)
+
+Email:
+![Screenshot 4](assets/email.png)
+
+Sheets:
+![Screenshot 5](assets/sheets.png)
+
+Telegram Message:
+![Screenshot 5](assets/telegram-msg.png)
+
 ### Requirements
 - Python 3.11+
 - PortAudio (installed by `sounddevice` on macOS; on Linux install system package `portaudio` if needed)
